@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34518.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab1Estructura de Datos", "Lab1Estructura de Datos\Lab1Estructura de Datos.vcxproj", "{384D93DA-00B2-45E4-88DC-20168C3530CA}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ApartmentRecommender", "ApartmentRecommender.vcxproj", "{384D93DA-00B2-45E4-88DC-20168C3530CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
